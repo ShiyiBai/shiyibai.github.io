@@ -1,0 +1,51 @@
+body {
+    background-color:#bae7fc;
+    font-family: "system-ui";
+    color: black;
+    width: 100%; 
+    margin: auto;
+    font-size: 20px;
+}
+  
+html {
+    margin: 0;
+    height: 100%;
+}
+
+.navi {
+    width: 100%;
+    overflow: auto;
+  }
+  
+.navi a {
+    float: left;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-right: 20px;
+    color: rgba(15, 40, 227, 0.983);
+    text-decoration: none;
+    font-size: 25px;
+    width: 15%;
+    text-align: center;
+}
+
+.navi a:hover {
+    color: #009dffeb;
+}
+
+.navi a:active {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.button {
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    max-width: 70px; 
+    max-height: 70px;
+}
