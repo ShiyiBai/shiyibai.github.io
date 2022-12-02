@@ -50,7 +50,12 @@ img {
     max-height: 70px;
 }
 
-.works {
+.works1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.works2 {
     text-align: center;
     font-size: 40px;
 }
@@ -64,5 +69,6 @@ img {
 .name{
     text-align: center;
     font-size: 30px;
+    color: rgb(248, 86, 12);
 }
 
