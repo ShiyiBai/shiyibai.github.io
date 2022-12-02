@@ -49,3 +49,18 @@ img {
     max-width: 70px; 
     max-height: 70px;
 }
+
+.biopic {
+    float: left;
+    width: 30%;
+    max-width: 100%;
+    padding-top: 100px;
+    padding-left: 3%;
+    padding-right: 2%;
+  }
+  
+  .bio {
+    float: left;
+    width: 60%;
+    padding: 20px;
+  }
