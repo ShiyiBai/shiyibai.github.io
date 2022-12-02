@@ -49,3 +49,17 @@ img {
     max-width: 70px; 
     max-height: 70px;
 }
+
+.personal {
+    float: left;
+    width: 35%;
+    max-width: 100%;
+    padding-top: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+.sentence {
+    text-align: left;
+    font-size: 30px;
+}
