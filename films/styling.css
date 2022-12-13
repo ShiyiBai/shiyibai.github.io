@@ -50,25 +50,25 @@ img {
     max-height: 70px;
 }
 
-.interests {
+.works1 {
     text-align: center;
     font-size: 40px;
 }
 
-.row{
+.works2 {
     text-align: center;
-    font-size: 30px;
-}
-.column {
-    float: left;
-    width: 32.33%;
-    padding: 5px;
-  }
-  
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
+    font-size: 40px;
 }
 
+.workspic{
+    width: 30%;
+    max-width: 100%;
+    padding-left: 35%;
+}
+
+.name{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(248, 86, 12);
+}
 
