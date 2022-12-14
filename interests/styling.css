@@ -78,4 +78,7 @@ img {
     display: table;
 }
 
-
+.des{
+    text-align: center;
+    font-size: 25px;
+}
