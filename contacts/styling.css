@@ -84,3 +84,7 @@ img {
     display: table;
 }
 
+.email{
+    text-align: center;
+    font-size: 30px;
+}
