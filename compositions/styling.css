@@ -1,0 +1,80 @@
+body {
+    background-image: 
+    linear-gradient(
+      rgba(21, 235, 255, 0.6), 
+      rgba(21, 255, 99, 0.40)
+    ),
+    url("../assets/bg3.jpg");
+    background-size: cover;
+    font-family: "system-ui";
+    color: black;
+    width: 100%; 
+    margin: auto;
+    font-size: 20px;
+}
+  
+html {
+    margin: 0;
+    height: 100%;
+}
+
+.navi {
+    width: 100%;
+    overflow: auto;
+  }
+  
+.navi a {
+    float: left;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-right: 20px;
+    color: rgba(15, 40, 227, 0.983);
+    text-decoration: none;
+    font-size: 25px;
+    width: 10%;
+    text-align: center;
+}
+
+.navi a:hover {
+    color: #04d624e0;
+}
+
+.navi a:active {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.profilepic {
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    max-width: 70px; 
+    max-height: 70px;
+}
+
+.works1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.works2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.workspic{
+    width: 30%;
+    max-width: 100%;
+    padding-left: 35%;
+}
+
+.name{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(248, 86, 12);
+}
+
