@@ -1,5 +1,11 @@
 body {
-    background-color:#bae7fc;
+    background-image: 
+    linear-gradient(
+      rgba(21, 235, 255, 0.6), 
+      rgba(21, 255, 99, 0.40)
+    ),
+    url("../assets/bg3.jpg");
+    background-size: cover;
     font-family: "system-ui";
     color: black;
     width: 100%; 
