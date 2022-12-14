@@ -65,11 +65,12 @@ img {
     text-align: center;
     font-size: 30px;
 }
+
 .column {
     float: left;
     width: 32.33%;
     padding: 5px;
-  }
+}
   
 .row::after {
     content: "";

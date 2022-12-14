@@ -43,6 +43,17 @@ html {
     color: rgb(255, 255, 255);
 }
 
+.row{
+    text-align: center;
+    font-size: 30px;
+}
+
+.column {
+    float: left;
+    width: 32.33%;
+    padding: 5px;
+}
+
 .image1
 {
     max-width: 100%;
@@ -81,9 +92,13 @@ html {
     padding-left: 35%;
 }
 
-.name{
+.names{
     text-align: center;
     font-size: 30px;
-    color: rgb(248, 86, 12);
+    color: rgb(229, 94, 32);
 }
 
+.des{
+    text-align: center;
+    font-size: 25px;
+}
