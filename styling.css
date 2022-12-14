@@ -44,8 +44,8 @@ html {
 }
 
 img {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 90%;
+    max-height: 90%;
 }
 
 .profilepic {
@@ -61,8 +61,8 @@ img {
     width: 35%;
     max-width: 100%;
     padding-top: 8%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 8%;
+    padding-right: 8%;
   }
 
 .sentence {
